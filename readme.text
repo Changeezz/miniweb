@@ -1,0 +1,2 @@
+运行方式：./run.sh
+或者 python3 http服务器.py 8000 mini_frame:application
